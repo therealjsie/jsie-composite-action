@@ -7,4 +7,4 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - id: my-composite-action
-        uses: therealjsie/jsie-composite-action@v3
+        uses: therealjsie/jsie-composite-action@main
